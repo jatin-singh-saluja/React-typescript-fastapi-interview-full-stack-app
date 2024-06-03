@@ -1,0 +1,122 @@
+[
+    {
+        "station_id": "088c0160-03c3-44a7-b4ef-6e25f52713d8",
+        "station_name": "Munich Central Station",
+        "latitude": 40.417358,
+        "longitude": 117.500558
+    },
+    {
+        "station_id": "c08613b5-6e92-4f78-9117-047dc5eb300d",
+        "station_name": "Munich East",
+        "latitude": -34.0257608,
+        "longitude": 18.4230789
+    },
+    {
+        "station_id": "973e561f-5d49-4b92-8784-01ba02564e42",
+        "station_name": "Harras",
+        "latitude": 7.8853608,
+        "longitude": 80.6523081
+    },
+    {
+        "station_id": "61f00068-8f64-4453-90ac-544e023b6d3d",
+        "station_name": "Pasing",
+        "latitude": 48.316667,
+        "longitude": 106.25
+    },
+    {
+        "station_id": "ad6f98ac-d4d2-4fe5-b802-aa9549c81525",
+        "station_name": "Freising",
+        "latitude": 21.2811908,
+        "longitude": -89.6651628
+    },
+    {
+        "station_id": "1e4cc1b0-c4c1-4ab1-b2b1-9498893b1349",
+        "station_name": "Augsburg",
+        "latitude": -6.81482,
+        "longitude": 106.40417
+    },
+    {
+        "station_id": "09f7fba9-565c-4692-a5f2-4a3dea57d097",
+        "station_name": "Westpark",
+        "latitude": 55.4747442,
+        "longitude": 40.4084556
+    },
+    {
+        "station_id": "7ac83a23-d612-4627-9831-36cc8b533066",
+        "station_name": "Messestadt West",
+        "latitude": 31.680023,
+        "longitude": 114.576901
+    },
+    {
+        "station_id": "6c0c50fc-e82e-409e-95ef-95f7af229a8d",
+        "station_name": "Mittersendling",
+        "latitude": 41.2875744,
+        "longitude": -8.447078
+    },
+    {
+        "station_id": "2d5cf828-d867-4031-863c-263d5ae10738",
+        "station_name": "Munich Airport",
+        "latitude": 29.985295,
+        "longitude": 122.207215
+    },
+    {
+        "station_id": "422aaa2d-ed9c-439d-b3f3-745ebf4ec523",
+        "station_name": "Sendlinger Tor",
+        "latitude": 0.6488335,
+        "longitude": 99.745565
+    },
+    {
+        "station_id": "557d1fcd-a0f7-4124-a769-b058f378def7",
+        "station_name": "Hallbergmoos",
+        "latitude": 47.3842312,
+        "longitude": 8.5324101
+    },
+    {
+        "station_id": "6ca71b4f-df88-45c0-a665-22ef879d573b",
+        "station_name": "Aying",
+        "latitude": 25.19786,
+        "longitude": 99.233929
+    },
+    {
+        "station_id": "14363d7a-d59b-4aee-9228-6d485bf882df",
+        "station_name": "Neu Aubing",
+        "latitude": 48.9481767,
+        "longitude": 38.4878774
+    },
+    {
+        "station_id": "797181af-e4c3-440b-9ff8-d2a55a39e743",
+        "station_name": "Am Hart",
+        "latitude": -10.07722,
+        "longitude": -76.21194
+    },
+    {
+        "station_id": "5c62f507-b482-4aaf-9bfb-b4ee2effa272",
+        "station_name": "Alte Heide",
+        "latitude": 52.145887,
+        "longitude": 25.5329454
+    },
+    {
+        "station_id": "86ad15d3-e032-4f6f-8cbf-7fd494a569b7",
+        "station_name": "Garching",
+        "latitude": 41.3398084,
+        "longitude": -8.1462729
+    },
+    {
+        "station_id": "27521257-7d00-4b40-8ff0-b523e4edec43",
+        "station_name": "University",
+        "latitude": 44.691336,
+        "longitude": 129.696957
+    },
+    {
+        "station_id": "b584ca84-8385-4597-9848-ef72046a4ce2",
+        "station_name": "Stachus",
+        "latitude": 34.363184,
+        "longitude": 107.237743
+    },
+    {
+        "station_id": "740d7217-ce84-4251-a354-98ed9557f685",
+        "station_name": "Odeonsplatz",
+        "latitude": 41.3307129,
+        "longitude": -8.5444494
+    }
+]
